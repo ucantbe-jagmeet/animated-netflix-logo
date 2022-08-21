@@ -48,7 +48,7 @@ body
     animation: blink 2s linear forwards;
 }
 
-/* @keyframes blink
+@keyframes blink
 {
     0%{
         right: 0;
@@ -57,7 +57,7 @@ body
     {
         right:-400%;
     }
-} */
+}
 
 .netflix span
 {
